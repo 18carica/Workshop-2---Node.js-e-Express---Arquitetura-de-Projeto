@@ -1,3 +1,4 @@
+<center>
 # Workshop-2---Node.js-e-Express---Arquitetura-de-Projeto
 Workshop: Node.js e Express - Arquitetura de Projeto - Desafio 2
 
@@ -11,4 +12,4 @@ Você deve desenvolver uma API em TypeScript que permita o registro de usuários
 - Implementar uma rota na API para a autenticação de um usuário. Essa rota deve receber o e-mail e a senha do usuário e verificar se as credenciais são válidas, utilizando a instância do sistema de gerenciamento de usuários.
 - Utilizar o TypeScript para fornecer tipagem estática ao código, garantindo a segurança e a consistência do sistema.
 Boa Sorte!
-
+</center>
